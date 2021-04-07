@@ -157,3 +157,4 @@ test/testvulkan
 test/testwm2
 test/testyuv
 test/torturethread
+SDL.xcodeproj/project.pbxproj
